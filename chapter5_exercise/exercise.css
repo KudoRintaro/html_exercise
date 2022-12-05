@@ -1,0 +1,152 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  width: 90%;
+  padding: 20px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.nav-list{
+text-align: center;
+padding:15px 0;
+margin: 0 auto;
+border-top: 1px solid black;
+border-bottom: 1px solid black;
+
+}
+
+.nav-list-item{
+  list-style: none;
+  display: inline-block;
+  padding: 0 20px;
+}
+
+.color-list{
+  width: 800px;
+  height: 600px;
+  margin:50px auto;
+  background-color: black;
+  font-size: 0;
+
+}
+
+.green-list{
+  width: 800px;
+  height: 200px;
+  background-color: green;
+}
+
+.green1{
+  width: 200px;
+  height: 200px;
+  background-color: #e6ffe9;
+  display: inline-block;
+}
+
+.green2{
+  width: 200px;
+  height: 200px;
+  background-color: #cbffd3;
+  display: inline-block;
+}
+
+.green3{
+  width: 200px;
+  height: 200px;
+  background-color: #aeffbd;
+  display: inline-block;
+}
+
+.green4{
+  width: 200px;
+  height: 200px;
+  background-color: #93ffab;
+  display: inline-block;
+}
+
+.yellow-list{
+  width: 800px;
+  height: 200px;
+  background-color: yellow;
+  display: inline-block;
+}
+
+.yellow1{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #f3ffd8;
+}
+
+.yellow2{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #edffbe;
+}
+
+.yellow3{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #e9ffa5;
+}
+
+.yellow4{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #e4ff8d;
+}
+
+.blue-list{
+  width: 800px;
+  height: 200px;
+  background-color: blue;
+  display: inline-block;
+}
+
+.blue1{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #d9e5ff;
+}
+
+.blue2{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #bad3ff;
+}
+
+.blue3{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #a4c6ff;
+}
+
+.blue4{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #8eb8ff;
+}
+
+footer{
+  width: 100%;
+  height: 120px;
+  background-color: gray;
+  text-align: center;
+  line-height: 120px;
+}
+
+.footer-text{
+color: white;
+}
